@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/TCP Client/.vs
+/TCP Client/bin
+/TCP Client/obj
+/TCP Server/bin
+/TCP Server/obj
